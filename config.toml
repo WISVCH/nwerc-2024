@@ -1,0 +1,22 @@
+baseURL = 'https://2024.nwerc.eu/'
+copyright = "W.I.S.V. `Christiaan Huygens'"
+languageCode = 'en-us'
+title = 'NWERC 2024'
+theme = 'ananke'
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+
+[params]
+    favicon = ""
+    site_logo = "logo.webp"
+    background_color_class = "bg-navy"
+    custom_css = ["background.css","footer.css", "schedule.css", "tables.css"]
+    mainSections = ['news']
+    env = "production"
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"

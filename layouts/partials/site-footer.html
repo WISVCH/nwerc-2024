@@ -1,0 +1,11 @@
+<footer class="bg-white bottom-0 w-100" role="contentinfo">
+<div class="flex flex-column justify-around pa3 pb5">
+   <!-- logos here -->
+</div>
+<div class="flex justify-between {{ .Site.Params.background_color_class | default "bg-black" }} pa3">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+</div>
+</footer>
