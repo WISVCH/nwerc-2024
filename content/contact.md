@@ -42,4 +42,4 @@ From left to right:
 * Raoul Bruens, _Commissioner of Logistics Affairs_
 
 ## Not in Picture:
-* Atour, Treasurer
+* Atour Mousavi Gourabi, _Treasurer_
