@@ -5,10 +5,10 @@ draft: false
 menu: main
 type: page
 ---
-The organisation can be contacted at [contact@2024.nwerc.eu](mailto:contact@2023.nwerc.eu). Companies interested in supporting the contest can contact [extern@2024.nwerc.eu](mailto:extern@2023.nwerc.eu).
+The organisation can be contacted at [contact@2024.nwerc.eu](mailto:contact@2024.nwerc.eu). Companies interested in supporting the contest can contact [extern@2024.nwerc.eu](mailto:extern@2024.nwerc.eu).
 
 # NWERC Coach Slack
-Since a couple of years there is a NWERC Coaches Slack. Coaches are invited to join [here](https://nwerc-icpc.slack.com/join/shared_invite/zt-1ggf2uot2-SVwK9k29~xfwKZaZT0Vw6Q)
+Since a couple of years, there is a NWERC Coaches Slack. Coaches are invited to join [here](https://nwerc-icpc.slack.com/join/shared_invite/zt-1ggf2uot2-SVwK9k29~xfwKZaZT0Vw6Q)
 for quick access to the organisation for questions.
 
 # Organisation

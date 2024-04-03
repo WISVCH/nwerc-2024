@@ -6,19 +6,19 @@ type: page
 weight: 1
 ---
 
-We are pleased to announce the Call for Problems (CfP) for the 2023 edition of the NWERC programming contest.
+We are pleased to announce the Call for Problems (CfP) for the 2024 edition of the NWERC programming contest.
 
-The date for the contest is the 24th until the 26th of November 2023, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2023 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
+The date for the contest is the 22th until the 24th of November 2024, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2024 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
 
-Questions regarding this call can be posed to: [cfp@2024.nwerc.eu](mailto:cfp@2023.nwerc.eu)
+Questions regarding this call can be posed to: [cfp@2024.nwerc.eu](mailto:cfp@2024.nwerc.eu)
 
 # Selection Procedure
 
-The deadline for submitting candidate problems is **July 10, 2023**.
+The deadline for submitting candidate problems is **Friday July 5, 2024**.
 
 The selection committee aims to select a subset of the submitted problems for use in the contest by mid-August. Selection criteria include problem novelty, and the goal of making a well-balanced problem set in terms of algorithmic topics, and degrees of problem difficulty. You are encouraged to submit at least two candidate problems for consideration rather than one.
 
-If your problem(s) are accepted, you will become part of the NWERC 2023 Jury. You are expected to have time available in the period from late August to November, in order to discuss improvements to your (and other jury members') problems. You are also expected to become a proofreader and implementer of at least one selected problem that is not your own.
+If your problem(s) are accepted, you will become part of the NWERC 2024 Jury. You are expected to have time available in the period from late August to November, in order to discuss improvements to your (and other jury members') problems. You are also expected to become a proofreader and implementer of at least one selected problem that is not your own.
 
 If your problem(s) are not accepted, we will destroy all records kept of them. This allows re-submission of the problem(s) for use in another contest. Upon request, it is possible to have problems simultaneously considered for one of the subregional contests NCPC and UKIEPC.
 
@@ -57,10 +57,10 @@ using `bt new_problem`.
 
 # Submission Procedure
 
-The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the [public PGP key](/pgp2023.asc) when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.
-Send the submission to: [cfp@2023.nwerc.eu](mailto:cfp@2023.nwerc.eu).
+The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the [public PGP key](/pgp2024.asc) when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.
+Send the submission to: [cfp@2024.nwerc.eu](mailto:cfp@2024.nwerc.eu).
 
-If you haven't used PGP for encrypting before, you are encouraged to send an encrypted file containing the text "A little nonsense" to [cfp@2023.nwerc.eu](mailto:cfp@2023.nwerc.eu) to practice before sending your submission.
+If you haven't used PGP for encrypting before, you are encouraged to send an encrypted file containing the text "A little nonsense" to [cfp@2024.nwerc.eu](mailto:cfp@2024.nwerc.eu) to practice before sending your submission.
 
 You will receive a signed acknowledgement once the submission has been received and properly decrypted.
 

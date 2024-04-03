@@ -1,5 +1,5 @@
-# NWERC 2023 Website
-This is the website for NWERC 2023, created with [Hugo](https://gohugo.io/).
+# NWERC 2024 Website
+This is the website for NWERC 2024, created with [Hugo](https://gohugo.io/).
 
 ## Before you Start
 This repository uses [Git LFS](https://git-lfs.github.com/) for large files.
