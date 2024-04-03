@@ -8,7 +8,7 @@ weight: 1
 
 We are pleased to announce the Call for Problems (CfP) for the 2024 edition of the NWERC programming contest.
 
-The date for the contest is the 22th until the 24th of November 2024, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2024 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
+The date for the contest is the 22th until the 24th of November 2024, and will take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2024 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
 
 Questions regarding this call can be posed to: [cfp@2024.nwerc.eu](mailto:cfp@2024.nwerc.eu)
 
