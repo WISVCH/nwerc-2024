@@ -1,8 +1,9 @@
 ---
 title: "Call for Problems"
 link-title: "CFP"
-draft: true
+draft: false
 type: page
+menu: main
 weight: 1
 ---
 
