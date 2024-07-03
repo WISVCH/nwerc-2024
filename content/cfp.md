@@ -15,7 +15,7 @@ Questions regarding this call can be posed to: [cfp@2024.nwerc.eu](mailto:cfp@20
 
 # Selection Procedure
 
-The deadline for submitting candidate problems is **Friday July 5, 2024**.
+The deadline for submitting candidate problems is **Wednesday July 10, 2024**.
 
 The selection committee aims to select a subset of the submitted problems for use in the contest by mid-August. Selection criteria include problem novelty, and the goal of making a well-balanced problem set in terms of algorithmic topics, and degrees of problem difficulty. You are encouraged to submit at least two candidate problems for consideration rather than one.
 
