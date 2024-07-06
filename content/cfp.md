@@ -50,7 +50,7 @@ Please use the following setup for problem submission.
 We will be using the official ICPC problem format. If you want to use it when
 submitting your proposal the format is documented
 [here](https://icpc.io/problem-package-format/spec/problem_package_format) and
-you can download a minimal sample [here](/problem_name.zip). A more
+you can download a minimal sample [here](/problem_cfp.zip). A more
 complete sample can be found in the [BAPCtools
 repository](https://github.com/RagnarGrootKoerkamp/BAPCtools/tree/master/skel/problem),
 which is the tool we will be using for problem development, and is initialized
