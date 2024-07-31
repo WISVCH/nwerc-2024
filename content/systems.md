@@ -9,15 +9,7 @@ menu: main
 This page describes current plans for the programming environment which will be available to each NWERC 2024 team.
 **Please note that these plans are subject to change.**
 
-Each team will have access to one TU Delft workstation, shared between team members.
-The configuration of each workstation will be as follows:
-
-## Hardware
-
-- Intel ?? Processor
-    - ?? cores, hyperthreading disabled
-    - CPU frequency ?? GHz, turboboost disabled
-- ??GB of RAM
+Each team will have access to one workstation, shared between team members.
 
 ## Software
 
