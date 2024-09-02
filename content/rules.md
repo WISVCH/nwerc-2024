@@ -4,14 +4,14 @@ weight: 5
 menu: main
 type: page
 ---
+Update 04 September: Add eligibilty diagram and section about Conduct during contest
+
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
 In addition to the official ICPC regional Rules, the following local rules also apply:
 
 ## Team composition
-A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules).
-
-[//]: # (summarized in the [2023-24 ICPC Regionals Eligibility Diagram]&#40;https://drive.google.com/file/d/15Wk1nODkAqdUuS6tZnCt2Wrscpvx1QGO/view&#41;.)
+A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules) summarized in the [2024-25 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view).
 
 * A team consists of 3 eligible students.
 * The educational institutions must be from one of the region's member countries. By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
@@ -39,3 +39,9 @@ team needs at the contest, please contact the Head of Jury.
 Team Reference Documents should be handed in at the registration.
 Mascots and other items (see above) can be brought to the team's table during the test session.
 These items should be left on the table after the test session and will be checked before the contest on Sunday.
+
+## Conduct during contest
+Please take note of the following addition to the ICPC Regional Rules:
+>The ICPC is an extra-curricular, competitive programming sport of the universities of the world.    Good sportsmanship is a requirement.  At ICPC events, teams and coaches should not wear or bring anything that might distract from spotlighting any other team.  At the competition and ceremonies that require official ICPC Shirts, do not bring anything with you other than smiles, goodwill, and teammates.  Each regional contest director is empowered to add additional restrictions and to correct inappropriate behavior.
+
+Please note that during the opening ceremony, test session, the contest and the award ceremony require the provided official NWERC 2024 shirts to be worn visibly on top. Badges should be worn at all time during the event.
