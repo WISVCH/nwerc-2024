@@ -2,6 +2,7 @@
 title: "Registration"
 weight: 4
 draft: false
+menu: main
 type: page
 ---
 
