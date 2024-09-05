@@ -1,7 +1,6 @@
 ---
 title: Systems
 type: page
-draft: true
 weight: 7
 menu: main
 ---
@@ -9,17 +8,7 @@ menu: main
 This page describes current plans for the programming environment which will be available to each NWERC 2024 team.
 **Please note that these plans are subject to change.**
 
-Each team will be provided with one laptop, shared between team members.
-Each laptop will have an external mouse.
-The configuration of each laptop will be as follows:
-
-## Hardware
-
-The laptop will be a Lenovo ThinkPad E570 and will have the following hardware specifications:
-- Intel Core i7 7500U Processor
-    - 2 cores, hyperthreading disabled
-    - CPU frequency 2.70 GHz, turboboost disabled
-- 16GB of RAM
+Each team will have access to one workstation, shared between team members.
 
 ## Software
 
