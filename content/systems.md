@@ -1,7 +1,6 @@
 ---
 title: Systems
 type: page
-draft: true
 weight: 7
 menu: main
 ---
