@@ -1,11 +1,68 @@
 <footer class="bg-white bottom-0 w-100" role="contentinfo">
-<div class="flex flex-column justify-around pa3 pb5">
-   <!-- logos here -->
-</div>
-<div class="flex justify-between {{ .Site.Params.background_color_class | default "bg-black" }} pa3">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-    </a>
-    <div>{{ partial "social-follow.html" . }}</div>
-</div>
+    <div class="flex flex-column justify-around pa3 pb5">
+        <!-- logos here -->
+        <div class="flex justify-between w-100 center sponsor">
+            <div class="flex flex-column center">
+                <a href="https://www.huawei.com/en/" target="_blank">
+                    <img src="/sponsors/Huawei.svg" alt="Huawei" height="130px">
+                </a>
+                <span>ICPC Diamond Multi-Regional Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="https://www.jetbrains.com/" target="_blank">
+                    <img src="/sponsors/Jetbrains.svg" alt="JetBrains" height="130px">
+                </a>
+                <span>ICPC Global Sponsor Programming Tools</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true&fbclid=IwZXh0bgNhZW0CMTAAAR0f0A1Wa2lEDNsLS0HCjaOwOzI4KSJTTfEzpAi9WOvE_r7ulmQKNrDikJo_aem_l_WFPty5Ac4z0ufq6HaiIQ"
+                   target="_blank">
+                    <img src="/sponsors/Janestreet.svg" alt="Jane Street" height="130px">
+                </a>
+                <span>ICPC Platinum Multi-Regional Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="https://www.jumptrading.com/" target="_blank">
+                    <img src="/sponsors/Jumptrading.svg" alt="Jump Trading" height="130px">
+                </a>
+                <span>ICPC Platinum Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="" target="_blank">
+                    <img src="/sponsors/Imc.webp" alt="IMC Trading">
+                </a>
+                <span>Gold Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="https://www.asml.com/en/careers/students-graduates" target="_blank">
+                    <img src="/sponsors/asml.webp" alt="ASML">
+                </a>
+                <span>Silver Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="http://www.webbtraders.com/careers" target="_blank">
+                    <img src="/sponsors/webb.webp" alt="WEBB Traders">
+                </a>
+                <span>Silver Sponsor</span>
+            </div>
+            <div class="flex flex-column center">
+                <a href="https://www.northpool.nl/vacancies" target="_blank">
+                    <img src="/sponsors/northpool.webp" alt="Northpool">
+                </a>
+                <span>Silver Sponsor</span>
+            </div>
+            <!--    <div class="flex flex-column center">-->
+            <!--        <a href="" target="_blank">-->
+            <!--            <img src="/sponsors/davinci.webp" alt="Da Vinci   ">-->
+            <!--        </a>-->
+            <!--        <span>Silver Sponsor</span>-->
+            <!--    </div>-->
+        </div>
+    </div>
+    <div class="flex justify-between {{ .Site.Params.background_color_class | default "bg-black" }} pa3">
+        <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        </a>
+        <div>{{ partial "social-follow.html" . }}</div>
+    </div>
 </footer>
