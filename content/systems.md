@@ -5,10 +5,19 @@ weight: 7
 menu: main
 ---
 
+<div class="fr tc w-25 ml1">
+    <a href="/workspace.jpg">
+        <img src="/workspace-small.webp" alt="A picture of the workspace available to each NWERC 2024. Picture taken during the Delft Algorithm Programming Contest (DAPC) 2024." />
+        <i class="ts" style="font-size:75%">Click to enlarge</i>
+    </a>
+</div>
+
 This page describes current plans for the programming environment which will be available to each NWERC 2024 team.
 **Please note that these plans are subject to change.**
 
 Each team will have access to one workstation, shared between team members.
+A photo of the available workspace, including the provided keyboard and mouse,
+can be seen on the right.
 
 ## Software
 
