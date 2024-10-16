@@ -10,8 +10,8 @@ The contest will take place at [Education Building 35](https://map.tudelftcampus
 ## To Delft by Car
 
 * At the A13/E19 between Rotterdam and Den Haag, take exit 10, Delft-Zuid/TU Delft.
-* Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoenmakerstraat.
-* Go *left* on to the Schoenmakerstraat and you have arrived at the campus ring road.
+* Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoemakerstraat.
+* Go *left* on to the Schoemakerstraat and you have arrived at the campus ring road.
 * Follow the signs P5 
 
 Parking on the street is paid on all days (except Sunday) from 12:00 until 24:00.
@@ -26,14 +26,14 @@ Delft has two train stations:
 * **Delft**, connecting to most train connections between Rotterdam and Den Haag HS and also has several bus connections to the contest site.
 * **Delft Campus**, connecting only on sprinter-lines, it provides no bus connections, but it is closer to the contest site on foot.
 
-Planning your trip is possible from the website of the [Dutch Railways](https://www.ns.nl/en/travel-information). Tickets can be bought at the machines at 
-the station, or [OVPay](https://www.ovpay.nl/en/how-it-works) can be used by using a foreign contactless debit cards and
-credit cards issued by MasterCard/Maestro and VISA/Vpay or by phone using Google Pay or Apply Pay. 
+Planning your trip is possible from the website of the [Dutch Railways](https://www.ns.nl/en/travel-information). Train tickets can be bought at the machines at
+the station, or  you can check in using [OVPay](https://www.ovpay.nl/en/how-it-works) using a foreign contactless debit card,
+a credit card issued by MasterCard/Maestro and VISA/Vpay, or by phone using Google Pay or Apple Pay.
 
 
 Bus lines 40 (stop: Cornelis Drebbelweg), 69 (weekdays only, Stop: Stieltjesweg), and 455 (stop: Christiaan Huygensweg) stop close to the contest site.
-From the busstop walk to the high blue/red building, which is (almost) next to the contest location. 
-Bus tickets can be bought in the bus with Debit Card only, or use OVPay.
+From the bus stop walk to the tall blue/red building, which is (almost) next to the contest location. 
+Bus tickets can be bought in the bus with Debit Card only, or you can check in using OVPay.
 
 ## To the Netherlands by airplane
 There are two airports close by to Delft.
