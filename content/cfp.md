@@ -3,7 +3,6 @@ title: "Call for Problems"
 link-title: "CFP"
 draft: false
 type: page
-menu: main
 weight: 1
 ---
 
