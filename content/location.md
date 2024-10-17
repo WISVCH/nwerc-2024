@@ -28,7 +28,7 @@ Delft has two train stations:
 
 Planning your trip is possible from the website of the [Dutch Railways](https://www.ns.nl/en/travel-information). Train tickets can be bought at the machines at
 the station, or  you can check in using [OVPay](https://www.ovpay.nl/en/how-it-works) using a foreign contactless debit card,
-a credit card issued by MasterCard/Maestro and VISA/Vpay, or by phone using Google Pay or Apple Pay.
+a contactless credit card issued by MasterCard/Maestro and VISA/Vpay, or by phone using Google Pay or Apple Pay.
 
 
 Bus lines 40 (stop: Cornelis Drebbelweg), 69 (weekdays only, Stop: Stieltjesweg), and 455 (stop: Christiaan Huygensweg) stop close to the contest site.
