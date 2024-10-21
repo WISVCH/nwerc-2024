@@ -9,7 +9,7 @@ weight: 1
 
 ## Foreword
 
-![Constest Director Nadine](/nadine.webp)
+![Constest Director Nadyne](/nadyne.webp)
 {.booklet-side-picture}
 
 Dear contestants, coaches and all other programming enthusiasts,
