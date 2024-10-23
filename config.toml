@@ -7,12 +7,15 @@ theme = 'ananke'
 [markup.goldmark.renderer]
     unsafe = true
 
+[markup.goldmark.parser.attribute]
+block = true
+title = true
 
 [params]
     favicon = ""
     site_logo = "logo.webp"
     background_color_class = "bg-navy"
-    custom_css = ["background.css","footer.css", "schedule.css", "tables.css"]
+    custom_css = ["background.css", "footer.css", "schedule.css", "tables.css", "booklet.css"]
     mainSections = ['news']
     env = "production"
 
