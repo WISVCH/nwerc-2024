@@ -5,7 +5,7 @@ day: sunday
 start: 12:15
 duration: 1h15m
 width: 1
-location: Building 35 - meeting hall 1
+location: Building 35 - meeting room 1
 people: coaches from Benelux area
 ---
 ## Location
