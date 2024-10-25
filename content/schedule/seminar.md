@@ -14,6 +14,6 @@ subregional and general coach meeting. The seminar will start around 15 minutes 
 
 ## Location
 The Last info speech takes place in the [Education Building 35](https://map.tudelftcampus.nl/poi/education-building-35/).
-The coach hall (IZ1) is located on the second floor. The coach spectator room is in PC3 on the first floor and can also be used to work in silence. 
+The coach hall (IZ3) is located on the second floor. The coach spectator room is in PC3 on the first floor and can also be used to work in silence. 
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
