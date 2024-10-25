@@ -12,6 +12,6 @@ During this meeting, the coaches will discuss future plans for the NWERC. Bids m
 
 ## Location
 The General coach meeting takes place in the [Education Building 35](https://map.tudelftcampus.nl/poi/education-building-35/).
-The coach hall (IZ1) is located on the second flor floor.
+The coach hall (IZ3) is located on the second flor floor.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
