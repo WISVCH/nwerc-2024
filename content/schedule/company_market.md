@@ -5,7 +5,7 @@ day: saturday
 start: 12:00
 duration: 8h
 width: 1
-location: Building 35 - Presentation hall
+location: Building 35 - Speeches hall
 people: all
 weight: 3
 ---
