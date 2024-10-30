@@ -4,7 +4,11 @@ weight: 5
 menu: main
 type: page
 ---
-Update 04 September: Add eligibilty diagram and section about Conduct during contest
+Update 04 September: Add eligibilty diagram and section about Conduct during contest.
+
+Update 30 October: Allow bringing unmodified liquid containers to the contest floor on Sunday.
+
+---
 
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
@@ -37,8 +41,10 @@ toy animals or party hats (provided they do not violate any of the above constra
 team needs at the contest, please contact the Head of Jury.
 
 Team Reference Documents should be handed in at the registration.
-Mascots and other items (see above) can be brought to the team's table during the test session.
+Mascots, snacks, and other items (see above) can be brought to the team's table during the test session.
 These items should be left on the table after the test session and will be checked before the contest on Sunday.
+It is not allowed to bring anything with you to the contest floor on Sunday, with the exception of unmodified liquid containers
+(e.g. mugs, cups, bottles).
 
 ## Conduct during contest
 Please take note of the following addition to the ICPC Regional Rules:
