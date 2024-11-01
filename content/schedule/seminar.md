@@ -14,6 +14,6 @@ subregional and general coach meetings. The seminar will start around 15 minutes
 
 ## Location
 The Coach seminar takes place in [Education Building 35](https://map.tudelftcampus.nl/poi/education-building-35/).
-The coaches hall (IZ3) is located on the second floor. The coach spectator room is in PC3 on the first floor and can also be used to work in silence.
+The coaches hall (IZ3) is located on the second floor.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
