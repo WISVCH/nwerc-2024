@@ -114,9 +114,32 @@ All teams who want to participate must be registered.
 
 ## Company profiles
 
+### WEBB Traders
+
 ### ASML
+ASML is changing the world, one nanometer at a time! We’re a high-tech, Netherlands-based company manufacturing complex lithography systems that chipmakers use to produce integrated circuits – aka microchips.
+
+Our machines help create the electronics you use in your daily life. In the past three decades, we have grown from a startup to a multinational company with over 60 locations globally and annual net sales of €21 billion in 2022.
+
+Behind ASML’s innovation hides true talent.
+Our researchers, engineers, scientists and manufacturing specialists, as well as our high-tech hardware and software experts, make the impossible happen every day.
+We invest around €3.3 billion per year in R&D, giving our teams the freedom, support and resources to experiment, test and push the boundaries of technology.
+They work in close-knit, multidisciplinary teams, learning and growing along with the company.
+
+If you want to be part of progress, visit [asml.com/careers](https://asml.com/careers).
 
 ### Northpool
+
+Northpool is a commodity trading company, based in Leiden, the Netherlands. Northpool’s main focus lies with energy and weather-related commodities and is currently active on the power and gas markets.
+With the future going forward to an even more sustainable energy environment, anticipating the future energy trends for the coming years is imperative. With wind, sun and rain as ideal sustainable energy sources,
+the weather has become increasingly important in the energy markets. Variations in weather lead to volatility in the power market.  
+ 
+Northpool’s expertise is founded on three pillars, Fundamentals, Efficiency and Opportunities. First, Northpool has a strong knowledge on the fundamental drivers in the energy market. Second, Northpool uses data
+driven feeding trading strategies leading to a more efficient power market. The trading strategies are strongly driven the combination of market data and technological possibilities. Finally, Northpool is always seeking opportunities in the market.  
+ 
+At Northpool we have four trading desks: Intraday, short term, long term and algorithmic trading. We are always looking for graduates for these desks and want to start their career with us.
+Whether you aspire to a career as a trader, analyze situations in the market or like to build models, at Northpool we look for the best place for you in our organization.
+
 
 ### Da Vinci
 
@@ -141,6 +164,8 @@ Across Europe, the US, and Asia-Pacific, our technologists and traders collabora
 Our enduring success is testament to the strength of our values. We fuse creative freedom, open feedback, and quick iteration to empower some of the world’s most talented people. We recognize the best ideas today – and collaborate across teams, borders, and time zones to make them even better tomorrow. And while we work hard, we have lots of fun doing it.
  
 It's a unique culture that sets us apart. As we like to say, there's only one IMC.
+
+![WEBB Traders](/webbtraders_ad.png)
 
 ## Schedule
 ### Friday - November 22, 2023
