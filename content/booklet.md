@@ -52,10 +52,10 @@ There is certainly an association for every occasion!
 All associations hold in common a social aspect of hosting fun events and bringing students closer together.
 Even NWERC 2024 is organised by members of the study association W.I.S.V. 'Christiaan Huygens'!
 
-![Northpool](/northpool_ad.png)
-
 ![Delft City Center Map](/delft-city-center-map.jpg)
 *Source: [OnTheWorldMap](https://ontheworldmap.com/netherlands/city/delft/delft-city-center-map.html)*
+
+![Northpool](/northpool_ad.png)
 
 ## Systems
 During the contest, the computer is your most valuable resource (perhaps apart from coffee).
