@@ -9,4 +9,4 @@ location: Flux
 people: all
 ---
 ## Location
-The Dinner takes place in the [Flux](https://map.tudelftcampus.nl/poi/flux/).
+The dinner takes place in the [Flux building](https://map.tudelftcampus.nl/poi/flux/).

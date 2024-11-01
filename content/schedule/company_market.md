@@ -1,5 +1,5 @@
 ---
-title: "Company Market"
+title: "Company market"
 type: event
 day: saturday
 start: 12:00
@@ -11,7 +11,7 @@ weight: 3
 ---
 
 ## Location
-The Opening ceremony takes place in the [Education Building 35](https://map.tudelftcampus.nl/poi/education-building-35/).
+The company market takes place in [Education Building 35](https://map.tudelftcampus.nl/poi/education-building-35/).
 The speeches hall (TZ2) is located on the ground floor.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
