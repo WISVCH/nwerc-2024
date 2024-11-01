@@ -4,10 +4,11 @@ weight: 6
 menu:
   main:
     name: Jury Advice
-draft: true    
 parent: rules
 type: page
 ---
+
+This page will be available on your desktop as [.pdf](/jury-advice.pdf).
 
 - Your submissions will be run multiple times,
   on different input files.
@@ -33,7 +34,7 @@ type: page
   (e.g. using `Scanner` in Java).
 
 - All judging machines are physically identical
-  to the laptops provided to you during the contest
+  to the dekstop PCs provided to you during the contest
   (see [Systems](/systems)).
 
 - The memory limit is the same for all problems and is 2048 MB.
