@@ -4,7 +4,7 @@ type: event
 day: sunday
 start: 9:00
 duration: 0h45m
-width: 3
+width: 4
 location: Building 35 - Speeches hall
 people: all
 ---

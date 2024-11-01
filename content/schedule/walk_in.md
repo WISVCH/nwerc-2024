@@ -4,7 +4,7 @@ type: event
 day: sunday
 start: 8:30
 duration: 0h30m
-width: 3
+width: 4
 location: Building 35
 people: all
 ---
