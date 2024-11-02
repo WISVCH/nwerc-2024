@@ -71,7 +71,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 | ![8102]  | University of Passau &mdash; DEU<ul><li>3-Flüssenetzwerk (42)</li></ul>                                                           |
 | ![6859]  | University of Southampton &mdash; GBR<ul><li>Idontknowwhatimdoingpleasehelpme (6)</li></ul>                                       |
 | ![7918]  | University of St Andrews &mdash; GBR<ul><li>InsertCustomName (54)</li></ul>                                                       |
-| ![2523]  | University of Sussex &mdash; GBR<ul><li>:(){ :                                                                                    |:& };: (86)</li></ul> |
+| ![2523]  | University of Sussex &mdash; GBR<ul><li>:(){ :\|:& };: (86)</li></ul>                                                             |
 | ![2526]  | University of Tartu &mdash; EST<ul><li>Bubblegum Bitset (36)</li></ul>                                                            |
 | ![2561]  | University of Twente &mdash; NLD<ul><li>Gaming Tesseract (39)</li></ul>                                                           |
 | ![6929]  | University of Warwick &mdash; GBR<ul><li>We don't locally test (61)</li></ul>                                                     |
