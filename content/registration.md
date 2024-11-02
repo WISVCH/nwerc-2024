@@ -1,7 +1,6 @@
 ---
 title: "Registration"
 weight: 4
-menu: main
 type: page
 ---
 
