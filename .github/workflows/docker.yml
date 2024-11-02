@@ -26,15 +26,10 @@ jobs:
             ${{ runner.os }}-lfs-
       - name: Git LFS Pull
         run: git lfs pull
-      # remove the git lfs directory to free up disk space
-      - name: Remove File
-        uses: JesseTG/rm@v1.0.3
-        with:
-          path: ./git/lfs
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.135.0'
+          hugo-version: 'latest'
           extended: true
       - name: Build
         run: hugo --minify --noTimes=false
