@@ -23,7 +23,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 | ![13859] | University of Luxembourg &mdash; LUX<ul><li>Kamicoders (37)</li></ul>                                                             |
 | ![3749]  | University of Nottingham &mdash; GBR<ul><li>Kernel (18)</li></ul>                                                                 |
 | ![2664]  | Vrije Universiteit &mdash; NLD<ul><li>(╯°□°)╯ (⊙＿⊙')  (■_■--) (3)</li></ul>                                                       |
-| ![11352] | Ruhr University &mdash; DEU<ul><li>RUBocop (51)</li></ul>                                                                         |
+| ![11352] | Ruhr University Bochum &mdash; DEU<ul><li>RUBocop (51)</li></ul>                                                                  |
 | ![2272]  | Karlsruhe Institute of Technology &mdash; DEU<ul><li>Kindergarten Timelimit (27)</li><li>Infinite Loopers (81)</li></ul>          |
 | ![5784]  | University of Edinburgh &mdash; GBR<ul><li>tlED (35)</li></ul>                                                                    |
 | ![21967] | Constructor University Bremen &mdash; DEU<ul><li>1st year (with a catch) (53)</li></ul>                                           |
@@ -90,7 +90,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 [13859]: /logo/13859.png "University of Luxembourg"
 [3749]: /logo/3749.png "University of Nottingham"
 [2664]: /logo/2664.png "Vrije Universiteit"
-[11352]: /logo/11352.png "Ruhr University"
+[11352]: /logo/11352.png "Ruhr University Bochum"
 [2272]: /logo/2272.png "Karlsruhe Institute of Technology"
 [5784]: /logo/5784.png "University of Edinburgh"
 [21967]: /logo/21967.png "Constructor University Bremen"
