@@ -5,7 +5,7 @@ day: saturday
 start: 18:00
 duration: 2h0m
 width: 2
-location: Flux
+location: Flux building
 people: all
 ---
 ## Location

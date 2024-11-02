@@ -5,7 +5,7 @@ day: saturday
 start: 9:30
 duration: 0h45m
 width: 3
-location: Building 35 - Speeches Hall
+location: Building 35 - Speeches hall
 people: all
 ---
 
