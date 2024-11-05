@@ -6,79 +6,85 @@ menu: main
 ---
 The following teams are competing in NWERC 2024. The numbers in parentheses represent the location of the team's workstation.
 
-|          |                                                                                                                                   |
-|:--------:|-----------------------------------------------------------------------------------------------------------------------------------|
-| ![7431]  | Aalborg University &mdash; DNK<ul><li>AAU Seebach Warriors (68)</li></ul>                                                         |
-| ![4786]  | Aalto University &mdash; FIN<ul><li>Aalto CS-A1140 Team 2 (38)</li></ul>                                                          |
-|   ![7]   | Aarhus University &mdash; DNK<ul><li>Pizza Driven Development (60)</li><li>Low Cohesion (80)</li></ul>                            |
-|  ![175]  | Bonn University &mdash; DEU<ul><li>bo(n^2) (70)</li></ul>                                                                         |
-| ![7464]  | Brunel University London &mdash; GBR<ul><li>chr (sum(range(ord(min(str(not())))))) (63)</li></ul>                                 |
-| ![3397]  | Chalmers University of Technology &mdash; SWE<ul><li>🥶 (1)</li><li>//assert(dominance) (82)</li></ul>                            |
-| ![21967] | Constructor University Bremen &mdash; DEU<ul><li>1st year (with a catch) (53)</li></ul>                                           |
-|  ![367]  | Delft University of Technology &mdash; NLD<ul><li>Segfault go BRRRR (13)</li><li>They cheated ^^^^^^^^^^^^^^^^^^^^ (74)</li></ul> |
-|  ![452]  | Eindhoven University of Technology &mdash; NLD<ul><li>Rubber Duckie Debuggers (24)</li></ul>                                      |
-| ![6557]  | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>FraUAS-DCoders (15)</li></ul>                                         |
-|  ![573]  | Friedrich-Alexander-University Erlangen-Nuremberg &mdash; DEU<ul><li>ᖴᗩᑌst ᖴᗩᑌrier Transᖴᗩᑌrm  (9)</li></ul>                      |
-| ![8170]  | Hasso Plattner Institute &mdash; DEU<ul><li>Seems to be O(k!) (40)</li><li>ChillMorphiumUSER (85)</li></ul>                       |
-| ![20052] | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (73)</li></ul>                                             |
-| ![7019]  | Hogeschool Leiden &mdash; NLD<ul><li>Cmar (29)</li></ul>                                                                          |
-| ![3678]  | Imperial College London &mdash; GBR<ul><li>Carton Road (2)</li></ul>                                                              |
-| ![6864]  | IT University of Copenhagen &mdash; DNK<ul><li>Ctrl Alt Elite (75)</li></ul>                                                      |
-| ![23885] | Jönköping University &mdash; SWE<ul><li>Rude Goblins (44)</li></ul>                                                               |
-| ![2272]  | Karlsruhe Institute of Technology &mdash; DEU<ul><li>Kindergarten Timelimit (27)</li><li>Infinite Loopers (81)</li></ul>          |
-|  ![980]  | Kaunas University of Technology &mdash; LTU<ul><li>KTU#1 (14)</li></ul>                                                           |
-| ![1039]  | KTH - Royal Institute of Technology &mdash; SWE<ul><li>grinders (16)</li></ul>                                                    |
-| ![11103] | KU Leuven &mdash; BEL<ul><li>Les écureuils (8)</li></ul>                                                                          |
-| ![1088]  | Leiden University &mdash; NLD<ul><li>Wormholes (62)</li></ul>                                                                     |
-| ![1097]  | Linköping University &mdash; SWE<ul><li>WTF IS A KILOMETER? (71)</li></ul>                                                        |
-| ![26092] | Liverpool Hope University &mdash; GBR<ul><li>ChosenByBrett <3 (69)</li></ul>                                                      |
-| ![1112]  | Lund University &mdash; SWE<ul><li>Noobs@LTH (56)</li></ul>                                                                       |
-| ![10500] | Maastricht University &mdash; NLD<ul><li>aMUsed (31)</li></ul>                                                                    |
-| ![7488]  | Maynooth University &mdash; IRL<ul><li>The Hamiltonians (66)</li></ul>                                                            |
-| ![1362]  | Norwegian University of Science and Technology &mdash; NOR<ul><li>Runtime Terror (19)</li></ul>                                   |
-| ![8002]  | Radboud University &mdash; NLD<ul><li>De Wasberen (48)</li></ul>                                                                  |
-| ![3403]  | Reykjavik University  &mdash; ISL<ul><li>Hakk og Spaghetti (50)</li></ul>                                                         |
-| ![1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li> A random triennial (55)</li></ul>                                                 |
-| ![11352] | Ruhr University Bochum &mdash; DEU<ul><li>RUBocop (51)</li></ul>                                                                  |
-| ![3787]  | RWTH Aachen University &mdash; DEU<ul><li>Oecher (4)</li></ul>                                                                    |
-| ![2267]  | Saarland University &mdash; DEU<ul><li>addicted (òvó) (59)</li></ul>                                                              |
-| ![11054] | Tallinn University of Technology &mdash; EST<ul><li>assume_aligned (21)</li></ul>                                                 |
-| ![4278]  | Technical University of Denmark &mdash; DNK<ul><li>Lord of the Graphs (64)</li></ul>                                              |
-| ![1917]  | Technische Universität München &mdash; DEU<ul><li>TriTUMvirate (47)</li><li>VikTUM Krum (84)</li></ul>                            |
-|  ![33]   | Ulm University &mdash; DEU<ul><li>Clueless Computer Club (32)</li></ul>                                                           |
-| ![2274]  | Universität Rostock &mdash; DEU<ul><li>with_prolog() (20)</li></ul>                                                               |
-| ![1154]  | Universität zu Lübeck &mdash; DEU<ul><li>geoMetry And inteRaCtivE probLem enjoyers (30)</li></ul>                                 |
-| ![9858]  | Université Catholique de Louvain &mdash; BEL<ul><li>Binary Church (22)</li></ul>                                                  |
-| ![8311]  | Université de Mons &mdash; BEL<ul><li>CPUMONS (11)</li></ul>                                                                      |
-| ![2284]  | Universiteit van Amsterdam &mdash; NLD<ul><li>Friday volleyball (57)</li><li>ADA Refactor (78)</li></ul>                          |
-| ![2292]  | University College Cork &mdash; IRL<ul><li>The One Musketeer (65)</li></ul>                                                       |
-| ![7006]  | University College London &mdash; GBR<ul><li>UCL (72)</li></ul>                                                                   |
-| ![5541]  | University of Bath &mdash; GBR<ul><li>Bathwater (41)</li></ul>                                                                    |
-| ![2320]  | University of Bergen &mdash; NOR<ul><li> youtu.be/dQw4w9WgXcQ (26)</li></ul>                                                      |
-| ![8317]  | University of Bristol &mdash; GBR<ul><li>Grzegorz Brzęczyszczykiewicz brzmi w trzcinie (28)</li></ul>                             |
-| ![2343]  | University of Cambridge &mdash; GBR<ul><li>Unity (52)</li><li>sushi warriors (77)</li></ul>                                       |
-| ![2357]  | University of Copenhagen &mdash; DNK<ul><li>3 little 3 late (10)</li></ul>                                                        |
-| ![5784]  | University of Edinburgh &mdash; GBR<ul><li>tlED (35)</li></ul>                                                                    |
-| ![6940]  | University of Glasgow &mdash; GBR<ul><li>Blåhajar (17)</li></ul>                                                                  |
-| ![7264]  | University of Göttingen &mdash; DEU<ul><li>GAUEINS (5)</li></ul>                                                                  |
-| ![7887]  | University of Iceland &mdash; ISL<ul><li>Codebusters (7)</li></ul>                                                                |
-| ![14148] | University of Leeds &mdash; GBR<ul><li>LeedCode (43)</li></ul>                                                                    |
-| ![6817]  | University of Liverpool &mdash; GBR<ul><li>TUO_ABMAM (33)</li></ul>                                                               |
-| ![13859] | University of Luxembourg &mdash; LUX<ul><li>Kamicoders (37)</li></ul>                                                             |
-| ![3749]  | University of Nottingham &mdash; GBR<ul><li>Kernel (18)</li></ul>                                                                 |
-| ![2467]  | University of Oslo &mdash; NOR<ul><li>Balloon Boys (46)</li></ul>                                                                 |
-| ![3620]  | University of Oxford &mdash; GBR<ul><li>placeholder (25)</li><li>Test2 (83)</li></ul>                                             |
-| ![8102]  | University of Passau &mdash; DEU<ul><li>3-Flüssenetzwerk (42)</li></ul>                                                           |
-| ![6859]  | University of Southampton &mdash; GBR<ul><li>Idontknowwhatimdoingpleasehelpme (6)</li></ul>                                       |
-| ![7918]  | University of St Andrews &mdash; GBR<ul><li>InsertCustomName (54)</li></ul>                                                       |
-| ![2523]  | University of Sussex &mdash; GBR<ul><li>:(){ :\|:& };: (86)</li></ul>                                                             |
-| ![2526]  | University of Tartu &mdash; EST<ul><li>Bubblegum Bitset (36)</li></ul>                                                            |
-| ![2561]  | University of Twente &mdash; NLD<ul><li>Gaming Tesseract (39)</li></ul>                                                           |
-| ![6929]  | University of Warwick &mdash; GBR<ul><li>We don't locally test (61)</li></ul>                                                     |
-| ![2625]  | Utrecht University &mdash; NLD<ul><li>Team Biem (49)</li></ul>                                                                    |
-| ![7477]  | Vilnius Gediminas Technical University &mdash; LTU<ul><li>VILNIUS TECH (67)</li></ul>                                             |
-| ![2643]  | Vilnius University &mdash; LTU<ul><li>Hope It Passes (76)</li></ul>                                                               |
-| ![2664]  | Vrije Universiteit &mdash; NLD<ul><li>(╯°□°)╯ (⊙＿⊙')  (■_■--) (3)</li></ul>                                                       |
+|                        |                                                                                                                                   |
+|:----------------------:|-----------------------------------------------------------------------------------------------------------------------------------|
+|        ![7431]         | Aalborg University &mdash; DNK<ul><li>AAU Seebach Warriors (68)</li></ul>                                                         |
+|        ![4786]         | Aalto University &mdash; FIN<ul><li>Aalto CS-A1140 Team 2 (38)</li></ul>                                                          |
+|          ![7]          | Aarhus University &mdash; DNK<ul><li>Pizza Driven Development (60)</li><li>Low Cohesion (80)</li></ul>                            |
+|         ![175]         | Bonn University &mdash; DEU<ul><li>bo(n^2) (70)</li></ul>                                                                         |
+|        ![7464]         | Brunel University London &mdash; GBR<ul><li>chr (sum(range(ord(min(str(not())))))) (63)</li></ul>                                 |
+|        ![3397]         | Chalmers University of Technology &mdash; SWE<ul><li>🥶 (1)</li><li>//assert(dominance) (82)</li></ul>                            |
+|        ![21967]        | Constructor University Bremen &mdash; DEU<ul><li>1st year (with a catch) (53)</li></ul>                                           |
+|         ![367]         | Delft University of Technology &mdash; NLD<ul><li>Segfault go BRRRR (13)</li><li>They cheated ^^^^^^^^^^^^^^^^^^^^ (74)</li></ul> |
+|         ![452]         | Eindhoven University of Technology &mdash; NLD<ul><li>Rubber Duckie Debuggers (24)</li></ul>                                      |
+|        ![6557]         | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>FraUAS-DCoders (15)</li></ul>                                         |
+|         ![573]         | Friedrich-Alexander-University Erlangen-Nuremberg &mdash; DEU<ul><li>ᖴᗩᑌst ᖴᗩᑌrier Transᖴᗩᑌrm  (9)</li></ul>                      |
+|        ![8170]         | Hasso Plattner Institute &mdash; DEU<ul><li>Seems to be O(k!) (40)</li><li>ChillMorphiumUSER (85)</li></ul>                       |
+|        ![20052]        | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (73)</li></ul>                                             |
+|        ![7019]         | Hogeschool Leiden &mdash; NLD<ul><li>Cmar (29)</li></ul>                                                                          |
+|        ![3678]         | Imperial College London &mdash; GBR<ul><li>Carton Road (2)</li></ul>                                                              |
+|        ![6864]         | IT University of Copenhagen &mdash; DNK<ul><li>Ctrl Alt Elite (75)</li></ul>                                                      |
+|        ![23885]        | Jönköping University &mdash; SWE<ul><li>Rude Goblins (44)</li></ul>                                                               |
+|        ![2272]         | Karlsruhe Institute of Technology &mdash; DEU<ul><li>Kindergarten Timelimit (27)</li><li>Infinite Loopers (81)</li></ul>          |
+|         ![980]         | Kaunas University of Technology &mdash; LTU<ul><li>KTU#1 (14)</li></ul>                                                           |
+|        ![1039]         | KTH - Royal Institute of Technology &mdash; SWE<ul><li>grinders (16)</li></ul>                                                    |
+|        ![11103]        | KU Leuven &mdash; BEL<ul><li>Les écureuils (8)</li></ul>                                                                          |
+|        ![1088]         | Leiden University &mdash; NLD<ul><li>Wormholes (62)</li></ul>                                                                     |
+|        ![1097]         | Linköping University &mdash; SWE<ul><li>WTF IS A KILOMETER? (71)</li></ul>                                                        |
+|        ![26092]        | Liverpool Hope University &mdash; GBR<ul><li>ChosenByBrett <3 (69)</li></ul>                                                      |
+|        ![1112]         | Lund University &mdash; SWE<ul><li>Noobs@LTH (56)</li></ul>                                                                       |
+|        ![10500]        | Maastricht University &mdash; NLD<ul><li>aMUsed (31)</li></ul>                                                                    |
+|        ![7488]         | Maynooth University &mdash; IRL<ul><li>The Hamiltonians (66)</li></ul>                                                            |
+|        ![1362]         | Norwegian University of Science and Technology &mdash; NOR<ul><li>Runtime Terror (19)</li></ul>                                   |
+|        ![8002]         | Radboud University &mdash; NLD<ul><li>De Wasberen (48)</li></ul>                                                                  |
+|        ![3403]         | Reykjavik University  &mdash; ISL<ul><li>Hakk og Spaghetti (50)</li></ul>                                                         |
+|        ![1534]         | Rijksuniversiteit Groningen &mdash; NLD<ul><li> A random triennial (55)</li></ul>                                                 |
+|        ![11352]        | Ruhr University Bochum &mdash; DEU<ul><li>RUBocop (51)</li></ul>                                                                  |
+|        ![3787]         | RWTH Aachen University &mdash; DEU<ul><li>Oecher (4)</li></ul>                                                                    |
+|        ![2267]         | Saarland University &mdash; DEU<ul><li>addicted (òvó) (59)</li></ul>                                                              |
+|        ![11054]        | Tallinn University of Technology &mdash; EST<ul><li>assume_aligned (21)</li></ul>                                                 |
+|        ![4278]         | Technical University of Denmark &mdash; DNK<ul><li>Lord of the Graphs (64)</li></ul>                                              |
+|        ![1917]         | Technische Universität München &mdash; DEU<ul><li>TriTUMvirate (47)</li><li>VikTUM Krum (84)</li></ul>                            |
+|         ![33]          | Ulm University &mdash; DEU<ul><li>Clueless Computer Club (32)</li></ul>                                                           |
+|        ![2274]         | Universität Rostock &mdash; DEU<ul><li>with_prolog() (20)</li></ul>                                                               |
+|        ![1154]         | Universität zu Lübeck &mdash; DEU<ul><li>geoMetry And inteRaCtivE probLem enjoyers (30)</li></ul>                                 |
+|        ![9858]         | Université Catholique de Louvain &mdash; BEL<ul><li>Binary Church (22)</li></ul>                                                  |
+|        ![8311]         | Université de Mons &mdash; BEL<ul><li>CPUMONS (11)</li></ul>                                                                      |
+|        ![2284]         | Universiteit van Amsterdam &mdash; NLD<ul><li>Friday volleyball (57)</li><li>ADA Refactor (78)</li></ul>                          |
+|        ![2292]         | University College Cork &mdash; IRL<ul><li>The One Musketeer (65)</li></ul>                                                       |
+|        ![7006]         | University College London &mdash; GBR<ul><li>UCL (72)</li></ul>                                                                   |
+|        ![5541]         | University of Bath &mdash; GBR<ul><li>Bathwater (41)</li></ul>                                                                    |
+|        ![2320]         | University of Bergen &mdash; NOR<ul><li> youtu.be/dQw4w9WgXcQ (26)</li></ul>                                                      |
+|        ![8317]         | University of Bristol &mdash; GBR<ul><li>Grzegorz Brzęczyszczykiewicz brzmi w trzcinie (28)</li></ul>                             |
+|        ![2343]         | University of Cambridge &mdash; GBR<ul><li>Unity (52)</li><li>sushi warriors (77)</li></ul>                                       |
+|        ![2357]         | University of Copenhagen &mdash; DNK<ul><li>3 little 3 late (10)</li></ul>                                                        |
+|        ![5784]         | University of Edinburgh &mdash; GBR<ul><li>tlED (35)</li></ul>                                                                    |
+|        ![6940]         | University of Glasgow &mdash; GBR<ul><li>Blåhajar (17)</li></ul>                                                                  |
+|        ![7264]         | University of Göttingen &mdash; DEU<ul><li>GAUEINS (5)</li></ul>                                                                  |
+|        ![7887]         | University of Iceland &mdash; ISL<ul><li>Codebusters (7)</li></ul>                                                                |
+|        ![14148]        | University of Leeds &mdash; GBR<ul><li>LeedCode (43)</li></ul>                                                                    |
+|        ![6817]         | University of Liverpool &mdash; GBR<ul><li>TUO_ABMAM (33)</li></ul>                                                               |
+|        ![13859]        | University of Luxembourg &mdash; LUX<ul><li>Kamicoders (37)</li></ul>                                                             |
+|        ![3749]         | University of Nottingham &mdash; GBR<ul><li>Kernel (18)</li></ul>                                                                 |
+|        ![2467]         | University of Oslo &mdash; NOR<ul><li>Balloon Boys (46)</li></ul>                                                                 |
+|        ![3620]         | University of Oxford &mdash; GBR<ul><li>placeholder (25)</li><li>Test2 (83)</li></ul>                                             |
+|        ![8102]         | University of Passau &mdash; DEU<ul><li>3-Flüssenetzwerk (42)</li></ul>                                                           |
+|        ![6859]         | University of Southampton &mdash; GBR<ul><li>Idontknowwhatimdoingpleasehelpme (6)</li></ul>                                       |
+|        ![7918]         | University of St Andrews &mdash; GBR<ul><li>InsertCustomName (54)</li></ul>                                                       |
+|        ![2523]         | University of Sussex &mdash; GBR<ul><li>:(){ :\|:& };: (86)</li></ul>                                                             |
+|        ![2526]         | University of Tartu &mdash; EST<ul><li>Bubblegum Bitset (36)</li></ul>                                                            |
+|        ![2561]         | University of Twente &mdash; NLD<ul><li>Gaming Tesseract (39)</li></ul>                                                           |
+|        ![6929]         | University of Warwick &mdash; GBR<ul><li>We don't locally test (61)</li></ul>                                                     |
+|        ![2625]         | Utrecht University &mdash; NLD<ul><li>Team Biem (49)</li></ul>                                                                    |
+|        ![7477]         | Vilnius Gediminas Technical University &mdash; LTU<ul><li>VILNIUS TECH (67)</li></ul>                                             |
+|        ![2643]         | Vilnius University &mdash; LTU<ul><li>Hope It Passes (76)</li></ul>                                                               |
+|        ![2664]         | Vrije Universiteit &mdash; NLD<ul><li>(╯°□°)╯ (⊙＿⊙')  (■_■--) (3)</li></ul>                                                       |
+| <h3>Company teams</h3> |
+|        ![C-23]         | Jetbrains (12)                                                                                                                    |
+|         ![C-8]         | Ortec   (23)                                                                                                                      | 
+|         ![C-2]         | ASML (34)                                                                                                                         |
+|         ![C-7]         | IMC Trading (45)                                                                                                                  |
+|        ![C-25]         | Jump Trading (79)                                                                                                                 |
 
 
 [7]: /logo/7.png "Aarhus University"
@@ -152,3 +158,8 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 [21967]: /logo/21967.png "Constructor University Bremen"
 [23885]: /logo/23885.png "Jönköping University"
 [26092]: /logo/26092.png "Liverpool Hope University"
+[C-2]: /logo/C-2.png "ASML"
+[C-7]: /logo/C-7.png "IMC Trading"
+[C-8]: /logo/C-8.png "ORTEC"
+[C-23]: /logo/C-23.png "Jetbrains"
+[C-25]: /logo/C-25.png "Jump Trading"
