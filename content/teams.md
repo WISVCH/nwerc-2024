@@ -48,7 +48,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 |         ![33]          | Ulm University &mdash; DEU<ul><li>Clueless Computer Club (32)</li></ul>                                                           |
 |        ![2274]         | Universität Rostock &mdash; DEU<ul><li>with_prolog() (20)</li></ul>                                                               |
 |        ![1154]         | Universität zu Lübeck &mdash; DEU<ul><li>geoMetry And inteRaCtivE probLem enjoyers (30)</li></ul>                                 |
-|        ![9858]         | Université Catholique de Louvain &mdash; BEL<ul><li>Binary Church (22)</li></ul>                                                  |
+|        ![9858]         | UCLouvain &mdash; BEL<ul><li>Binary Church (22)</li></ul>                                                                         |
 |        ![8311]         | Université de Mons &mdash; BEL<ul><li>CPUMONS (11)</li></ul>                                                                      |
 |        ![2284]         | Universiteit van Amsterdam &mdash; NLD<ul><li>Friday volleyball (57)</li><li>ADA Refactor (78)</li></ul>                          |
 |        ![2292]         | University College Cork &mdash; IRL<ul><li>The One Musketeer (65)</li></ul>                                                       |
@@ -147,7 +147,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 [8170]: /logo/8170.png "Hasso Plattner Institute"
 [8311]: /logo/8311.png "Université de Mons"
 [8317]: /logo/8317.png "University of Bristol"
-[9858]: /logo/9858.png "Université Catholique de Louvain"
+[9858]: /logo/9858.png "UCLouvain"
 [10500]: /logo/10500.png "Maastricht University"
 [11054]: /logo/11054.png "Tallinn University of Technology"
 [11103]: /logo/11103.png "KU Leuven"
