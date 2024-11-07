@@ -3,7 +3,7 @@ title: "Registration (time subject to change)"
 type: event
 day: friday
 start: 14:00
-duration: 8h0m
+duration: 7h0m
 width: 1
 location: Faculty EEMCS
 people: all
