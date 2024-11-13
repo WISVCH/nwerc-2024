@@ -15,7 +15,7 @@ During registration all team members and on-site coaches need to register. You w
 The registration takes place in [Faculty EEMCS](https://map.tudelftcampus.nl/poi/elektrotechniek-wiskunde-en-informatica-ewi/).
 This is the tall red/blue building.
 
-The registration is held in the Back/ (Backslash) in the basement of the Faculty EEMCs.
+The registration is held in the Back/ (Backslash) in the basement of the Faculty EEMCS.
 Follow the signs, or use the following directions. 
 When entering the building, walk towards the elevators and take the stairs down on the right hand side.
 At the bottom of the stairs go right through two red sliding doors.
