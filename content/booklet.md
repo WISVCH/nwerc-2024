@@ -115,6 +115,22 @@ All teams who want to participate must be registered.
 ## Company profiles
 
 ### WEBB Traders
+WE ARE A LEADING MARKET MAKER.
+
+WEBB Traders is a proprietary trading company aiming to redefine trading as a unified effort powered by a broader range of expertise and technology.
+We act as a market maker and we use our own capital to trade on global stock and derivatives exchanges.
+Since our first trade in 2009, we’ve developed a culture of openness, community, joy, and boundless entrepreneurship.
+
+Looking to unleash your talent?
+
+WEBB is continually growing and expanding into new markets.
+To keep up with this growth we are on the lookout for talented (junior) traders, researchers, engineers, and other experts to come join us.
+We realize that our strength is in our people so we give them the freedom to be who they are and empower them to be the best that they can be, both personally and professionally.
+Our company size allows us to have a flat hierarchy and transparency, where trust can thrive.
+So... if you are driven, a team player, you love a good challenge and you want to learn (a lot!) then we welcome you to apply for one of our openings.
+
+- [www.webbtraders.com](https://www.webbtraders.com)
+- [www.linkedin.com/company/webb-traders](https://www.linkedin.com/company/webb-traders)
 
 ### ASML
 ASML is changing the world, one nanometer at a time! We’re a high-tech, Netherlands-based company manufacturing complex lithography systems that chipmakers use to produce integrated circuits – aka microchips.
