@@ -106,6 +106,13 @@ The educational institutions must be from one of the region's member countries.
 By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
 All teams who want to participate must be registered.
 
+### Conduct during contest
+The ICPC is an extra-curricular, competitive programming sport of the universities of the world. 
+Good sportsmanship is a requirement. 
+At NWERC, teams and coaches should not wear or bring anything that might distract from spotlighting any other team.
+At the contest, test session, opening ceremony and award ceremony require official NWERC shirts, do not bring anything with you other than smiles, goodwill, and teammates. 
+Badges should be worn visibly at all times.
+The regional contest director is empowered to add additional restrictions and to correct inappropriate behavior.
 ![Mathrix](/mathrix_ad.png)
 
 ## Company profiles
