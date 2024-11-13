@@ -1,5 +1,5 @@
 ---
-title: "Registration (time subject to change)"
+title: "Registration"
 type: event
 day: friday
 start: 14:00
