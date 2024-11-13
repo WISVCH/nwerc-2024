@@ -97,10 +97,6 @@ Each team member may bring one printed, unannotated natural language dictionary.
 You may bring mascots such as stuffed animals or party hats provided they do not violate the above constraints.
 If there is any other item you need, please contact the Head of Jury.
 
-Teams are allowed to bring one keyboard.
-Note that keyboards with pre-programmed macro keys are not allowed.
-Wireless keyboards are also not allowed.
-One mouse is allowed too, but is subject to the same macro rule as with the keyboard.
 For more jury advice, see: [2024.nwerc.eu/jury-advice](/jury-advice).
 
 ### Team Composition
