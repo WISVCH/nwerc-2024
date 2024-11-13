@@ -19,6 +19,6 @@ The registration is held in the `\` (backslash) in the basement of the Faculty E
 Follow the signs, or use the following directions. 
 When entering the building, walk towards the elevators and take the stairs down on the right hand side.
 At the bottom of the stairs go right through two red sliding doors.
-Walk around the green cage and turn left. 
+Walk around the green cage and turn right. 
 
  
