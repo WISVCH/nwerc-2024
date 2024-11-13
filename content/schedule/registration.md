@@ -5,7 +5,7 @@ day: friday
 start: 14:00
 duration: 7h0m
 width: 1
-location: Faculty EEMCS
+location: Faculty EEMCS - \
 people: all
 ---
 
@@ -14,5 +14,11 @@ During registration all team members and on-site coaches need to register. You w
 ## Location
 The registration takes place in [Faculty EEMCS](https://map.tudelftcampus.nl/poi/elektrotechniek-wiskunde-en-informatica-ewi/).
 This is the tall red/blue building.
-Exact location will be added later.
-For directions, see the [Location page]({{< relref "location" >}} "Location").
+
+The registration is held in the `\` (backslash) in the basement of the Faculty EEMCs.
+Follow the signs, or use the following directions. 
+When entering the building, walk towards the elevators and take the stairs down on the right hand side.
+At the bottom of the stairs go right through two red sliding doors.
+Walk around the green cage and turn left. 
+
+ 
