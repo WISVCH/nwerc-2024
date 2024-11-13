@@ -100,7 +100,7 @@ If there is any other item you need, please contact the Head of Jury.
 For more jury advice, see: [2024.nwerc.eu/jury-advice](/jury-advice).
 
 ### Team Composition
-A student may compete when eligible according to the official ICPC regional rules summarised in the 2024 ICPC Regionals Eligibility Diagram.
+A student may compete when eligible according to the official ICPC regional rules summarised in the [2024-25 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view).
 A team consists of 3 eligible students.
 The educational institutions must be from one of the region's member countries.
 By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
