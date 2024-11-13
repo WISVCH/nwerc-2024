@@ -19,6 +19,5 @@ The registration is held in the Back/ (Backslash) in the basement of the Faculty
 Follow the signs, or use the following directions. 
 When entering the building, walk towards the elevators and take the stairs down on the right hand side.
 At the bottom of the stairs go right through two red sliding doors.
-Walk around the green cage and turn right. 
-
- 
+Walk forward through the bicycle parking and go right at the second intersection, which is behind the green cage.
+If you see the ramp up, you have gone too far and should have followed the signs.
