@@ -155,6 +155,14 @@ Whether you aspire to a career as a trader, analyze situations in the market or 
 
 ### Da Vinci
 
+Da Vinci was founded in 2015 by three friends with significant experience and enthusiasm for trading and has been growing successfully ever since.
+We are a unique proprietary trading firm, focusing on volatility trading, arbitrage and market making across major exchanges worldwide.
+We identify opportunities, trade volatility based on in-house developed strategies and provide liquidity to the markets thus making them more efficient.
+
+Our philosophy towards work is best captured by the saying “Be good, work hard and great things will happen”.
+We are meritocratic by nature and believe that empowering talent in our organization is the only way forward. As part of our team, you will build trading algorithms, implement new strategies in the market, analyze trades, continuously improve how we do things and come up with new innovative ideas to contribute to reaching our ambitious goals.
+
+
 ### Mathrix
 
 Mathrix is a leading algorithmic trading firm with fully automated operations, providing deep liquidity to the digital asset markets. Mathrix is one of the dominant players in the space, ranking at the top of CEX and expanding rapidly on DEX. 
