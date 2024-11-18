@@ -10,6 +10,8 @@ type: page
 
 This page will be available on your desktop as [.pdf](/jury-advice.pdf).
 
+Update 2024-11-19: Add that sample outputs will be visible in DOMjudge.
+
 - Your submissions will be run multiple times,
   on different input files.
   The order in which the input files are being used is fixed
@@ -27,6 +29,10 @@ This page will be available on your desktop as [.pdf](/jury-advice.pdf).
   You should not attempt to use multithreading in your submissions.
   Attempts to start extra processes or threads may
   lead to a judgement of "Run Time Error".
+
+- After receiving the judgement of your submission,
+  you are able to view the output of your submission and the corresponding verdict
+  for each of the samples from the DOMjudge interface.
 
 - Each problem will have a stated time limit.
   This time limit is per input file and refers to CPU time,
