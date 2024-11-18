@@ -34,7 +34,7 @@ This page will be available on your desktop as [.pdf](/jury-advice.pdf).
   (e.g. using `Scanner` in Java).
 
 - All judging machines are physically identical
-  to the dekstop PCs provided to you during the contest
+  to the desktop PCs provided to you during the contest
   (see [Systems](/systems)).
 
 - The memory limit is the same for all problems and is 2048 MB.
