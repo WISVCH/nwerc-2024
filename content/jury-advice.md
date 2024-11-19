@@ -32,7 +32,7 @@ Update 2024-11-19: Add that sample outputs will be visible in DOMjudge.
 
 - After receiving the judgement of your submission,
   you are able to view the output of your submission and the corresponding verdict
-  for each of the samples from the DOMjudge interface.
+  of each of the samples in the DOMjudge interface.
 
 - Each problem will have a stated time limit.
   This time limit is per input file and refers to CPU time,
