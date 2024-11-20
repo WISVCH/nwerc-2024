@@ -123,7 +123,7 @@ Source files submitted to the Judges will be compiled using the following comman
     - Available as `mykotlin`
 
 Compilation and execution as described above will take place in a “sandbox” on a dedicated judging machine.
-The judging machine will be identical to the machines used by teams (see [Hardware](#hardware)).
+The judging machine will be identical to the machines used by teams.
 
 The sandbox will allocate 2 GiB of memory; the entire program, including its runtime environment, must execute within this memory limit.
 For interpreted languages (Python, Java, and Kotlin) the runtime environment includes the interpreter (that is, the PyPy3 interpreter for Python and the JVM for Java/Kotlin).
