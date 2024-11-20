@@ -12,7 +12,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 |        ![4786]         | Aalto University &mdash; FIN<ul><li>Aalto CS-A1140 Team 2 (38)</li></ul>                                                          |
 |          ![7]          | Aarhus University &mdash; DNK<ul><li>Pizza Driven Development (60)</li><li>Low Cohesion (80)</li></ul>                            |
 |         ![175]         | Bonn University &mdash; DEU<ul><li>bo(n^2) (70)</li></ul>                                                                         |
-|        ![7464]         | Brunel University London &mdash; GBR<ul><li>chr&nbsp;(sum(range(ord(min(str(not())))))) (63)</li></ul>                                 |
+|        ![7464]         | Brunel University London &mdash; GBR<ul><li>chr&nbsp;(sum(range(ord(min(str(not())))))) (63)</li></ul>                            |
 |        ![3397]         | Chalmers University of Technology &mdash; SWE<ul><li>🥶 (1)</li><li>//assert(dominance) (82)</li></ul>                            |
 |        ![21967]        | Constructor University Bremen &mdash; DEU<ul><li>1st year (with a catch) (53)</li></ul>                                           |
 |         ![367]         | Delft University of Technology &mdash; NLD<ul><li>Segfault go BRRRR (13)</li><li>They cheated ^^^^^^^^^^^^^^^^^^^^ (74)</li></ul> |
@@ -80,7 +80,7 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 |        ![2643]         | Vilnius University &mdash; LTU<ul><li>Hope It Passes (76)</li></ul>                                                               |
 |        ![2664]         | Vrije Universiteit &mdash; NLD<ul><li>(╯°□°)╯ (⊙＿⊙')  (■_■--) (3)</li></ul>                                                       |
 | <h3>Company teams</h3> |
-|        ![C-23]         | JetBrains (12)                                                                                                                    |
+|        ![C-23]         | JetBrains Student Team (12)                                                                                                       |
 |         ![C-8]         | Ortec   (23)                                                                                                                      |
 |         ![C-2]         | ASML (34)                                                                                                                         |
 |         ![C-7]         | IMC Trading (45)                                                                                                                  |
