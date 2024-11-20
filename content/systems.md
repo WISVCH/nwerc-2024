@@ -74,15 +74,15 @@ The software configuration will consist of the following:
 The following languages are allowed during the contest:
 
 - C
-    - Compiler version: 11.4.0
+    - Compiler version: 13.2.0
     - Standard: gnu17
 - C++
-    - Compiler version: 11.4.0
+    - Compiler version: 13.2.0
     - Standard: gnu++20
 - Python
-    - Version: PyPy 7.3.16 (Python 3.10.14)
+    - Version: PyPy 7.3.17 (Python 3.10.14)
 - Java
-    - Version: 17.0.8
+    - Version: 21.0.5
 - Kotlin
     - Version: 1.7.21
 
