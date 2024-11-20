@@ -14,7 +14,7 @@ The following NWERC excursions are available for Saturday, November 23. Each act
 All activities take place between 15:00 and 18:00, though museums listed below **close at 17:00**.
 
 
-Please note that these excursions are **self-guided**, allowing you to visit your chosen activity at your own pace. All activities are within a 30-minute walking distance of the contest site. Dinner is served in the Flux building from 18:00 until 20:00, so be sure to come by on time after your activity.
+Please note that these excursions are **self-guided**, allowing you to visit your chosen activity at your own pace. All activities are within a 30-minute walking distance of the contest site. Dinner is served in the Speeches hall from 18:00 until 20:00, so be sure to come by on time after your activity.
 
 The registration form is available through a link in the information email sent on 02/11/2024.
 
