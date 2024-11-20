@@ -81,23 +81,30 @@ Furthermore, if you stumble upon any problems with the system during the test se
 ![Da Vinci](/da_vinci_ad.png)
 
 ## Jury and Rules
-We follow the World Finals rules, so a team is not allowed to bring any reference materials such as books, program listings, or notes (except for the TRDs)!
-You may not bring any electronic device or machine-readable media.
-You may bring pens or pencils, but not paper.
-Winter coats, bags etc. should not be brought to the contest area.
+We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference Document, but not allowed
+to bring any additional reference materials such as books, program listings and notes! You may not bring any electronic device
+or machine-readable media (this includes but is not limited to cell phones, **watches**, digital cameras, and mp3 players).
+Teams are **not** allowed to replace the provided keyboard and mouse.
+You may bring pens or pencils, but not paper (these will be provided).
+Winter coats, bags, etc. should not be brought to the contest floor.
 
-Each contestant may bring a copy of a Team Reference Document (TRD).
-This may contain up to 25 pages of reference materials, singlesided, letter or A4 size.
-The pages must be numbered in the upper right-hand corner and contain the university name in the upper lefthand corner.
-Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of ½ meter.
-It may include handwritten comments and corrections on the fronts of the pages only.
-The document should be in a notebook or folder with the name of your institution on front.
+Each contestant may bring a copy of a Team Reference Document. This document may contain up to 25 pages of reference materials,
+single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name printed in the upper
+left-hand corner. Text and illustrations must be readable by a person with correctable eyesight without magnification from a
+distance of ½ meter. It may include handwritten comments and corrections on the fronts of pages only. The document should be
+in some type of notebook or folder with the name of your institution on the front.
 
-Each team member may bring one printed, unannotated natural language dictionary.
-You may bring mascots such as stuffed animals or party hats, provided they do not violate the above constraints.
-If there is any other item you need, please contact the Head of Jury.
+Each team member may bring one printed, unannotated natural language dictionary. You may bring mascots such as stuffed
+toy animals or party hats (provided they do not violate any of the above constraints). If there is some other item your
+team needs at the contest, please contact the Head of Jury.
 
-For more jury advice, see: [2024.nwerc.eu/jury-advice](/jury-advice).
+Team Reference Documents should be handed in at the registration.
+Mascots, snacks, and other items (see above) can be brought to the team's table during the test session.
+These items should be left on the table after the test session and will be checked before the contest on Sunday.
+It is not allowed to bring anything with you to the contest floor on Sunday, with the exception of unmodified liquid containers
+(e.g. mugs, cups, bottles).
+
+For advice from the jury, see: [2024.nwerc.eu/jury-advice](/jury-advice).
 
 ### Team Composition
 A student may compete when eligible according to the official ICPC regional rules summarised in the [2024-25 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view).
