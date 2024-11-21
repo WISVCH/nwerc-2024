@@ -6,7 +6,7 @@ date: 2024-11-21T00:14:00+01:00
 
 The 2024 ICPC Northwestern Europe Regional Contest will take place this weekend, and we hope that you and your team are
 prepared for this great event. Please check the pages for the [latest system information](/systems) and the
-[schedule](/schedule). 
+[schedule](/schedule).
 
 We want to remind you of the following:
 
@@ -27,11 +27,11 @@ companies making this contest possible. You can read the booklet [here](/booklet
 
 We have made a special map for this contest with areas of interest in Delft. You can take a look at it
 on [https://wisv.ch/map](/map). If you and/or your team want to register on-site on Saturday morning, please contact us if you
-haven't done so already. 
+haven't done so already.
 
 For the followers at home, the scoreboard can be viewed on https://scoreboard.nwerc.eu/ during the
 weekend. There will also be a live stream available of the opening ceremony, test session and team interviews, contest
-and jury solutions and award ceremony on the ICPC Live YouTube Channel.
+and, jury solutions and award ceremony on the [ICPC Live YouTube Channel](https://www.youtube.com/@ICPClive).
 
 We wish you good luck with your last preparations and are looking forward to welcoming you and your team in Delft this
 weekend.
