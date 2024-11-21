@@ -12,3 +12,40 @@ The Northwestern Europe Regional Contest (NWERC) is a contest in which teams fro
 The 2024 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the 22nd until the 24th of November 2024.
 The contest will be held on the campus of the Delft University of Technology. This year's edition will be a lit(e) version.
 
+{{% row %}}
+{{% column %}}
+
+## Contest material
+
+<!--
+- [Photos](https://2024.nwerc.eu/photos)
+- [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
+- [Problem Set (pdf)](/main/problem-set.pdf)
+- [Problem Slides (pdf)](/main/problem-slides.pdf)
+- [Solution Slides (pdf)](/main/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](https://chipcie.wisv.ch/archive/2023/nwerc/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Spectator Contest](https://spectator.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Contest Livestream](https://www.youtube.com/watch?v=Ho3z9XpJ5AA)
+- [Award Ceremony Livestream](https://www.youtube.com/watch?v=Z1HO34X9qSA)
+
+{{% /column %}}
+{{% column %}}
+
+## Test session material
+
+<!--
+- [Final Standings](/test-session/scoreboard)
+- [Problem Set (pdf)](/test-session/problem-set.pdf)
+- [Problem Slides (pdf)](/test-session/problem-slides.pdf)
+- [Solution Slides (pdf)](/test-session/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](/test-session/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Spectator Contest](https://spectator.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Opening Ceremony Livestream](https://www.youtube.com/watch?v=qkcMuoyBoWg)
+- [Test Session and Team Interviews Livestream](https://www.youtube.com/watch?v=cj5lXaF88hA)
+
+{{% /column %}}
+{{% /row %}}
