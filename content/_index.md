@@ -35,15 +35,11 @@ The contest will be held on the campus of the Delft University of Technology. Th
 
 ## Test session material
 
-<!--
 - [Final Standings](/test-session/scoreboard)
 - [Problem Set (pdf)](/test-session/problem-set.pdf)
 - [Problem Slides (pdf)](/test-session/problem-slides.pdf)
 - [Solution Slides (pdf)](/test-session/solutions.pdf)
-- [Packaged Problems (.zip, ???MB)](/test-session/solutions.zip)
--->
-- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
-- [Spectator Contest](https://spectator.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Packaged Problems (.zip, 57MB)](/test-session/solutions.zip)
 - [Opening Ceremony Livestream](https://www.youtube.com/watch?v=qkcMuoyBoWg)
 - [Test Session and Team Interviews Livestream](https://www.youtube.com/watch?v=cj5lXaF88hA)
 
