@@ -16,12 +16,11 @@ The following teams are competing in NWERC 2024. The numbers in parentheses repr
 |        ![3397]         | Chalmers University of Technology &mdash; SWE<ul><li>🥶 (1)</li><li>//assert(dominance) (82)</li></ul>                            |
 |        ![21967]        | Constructor University Bremen &mdash; DEU<ul><li>1st year (with a catch) (53)</li></ul>                                           |
 |         ![367]         | Delft University of Technology &mdash; NLD<ul><li>Segfault go BRRRR (13)</li><li>They cheated ^^^^^^^^^^^^^^^^^^^^ (74)</li></ul> |
-|         ![452]         | Eindhoven University of Technology &mdash; NLD<ul><li>Rubber Duckie Debuggers (24)</li></ul>                                      |
+|         ![452]         | Eindhoven University of Technology &mdash; NLD<ul><li>Rubber Duckie Debuggers (24)</li><li>FC Puddlebee (29)</li></ul>            |
 |        ![6557]         | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>FraUAS-DCoders (15)</li></ul>                                         |
 |         ![573]         | Friedrich-Alexander-University Erlangen-Nuremberg &mdash; DEU<ul><li>ᖴᗩᑌst ᖴᗩᑌrier Transᖴᗩᑌrm  (9)</li></ul>                      |
 |        ![8170]         | Hasso Plattner Institute &mdash; DEU<ul><li>Seems to be O(k!) (40)</li><li>ChillMorphiumUSER (85)</li></ul>                       |
 |        ![20052]        | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (73)</li></ul>                                             |
-|        ![7019]         | Hogeschool Leiden &mdash; NLD<ul><li>Cmar (29)</li></ul>                                                                          |
 |        ![3678]         | Imperial College London &mdash; GBR<ul><li>Carton Road (2)</li></ul>                                                              |
 |        ![6864]         | IT University of Copenhagen &mdash; DNK<ul><li>Ctrl Alt Elite (75)</li></ul>                                                      |
 |        ![23885]        | Jönköping University &mdash; SWE<ul><li>Rude Goblins (44)</li></ul>                                                               |
