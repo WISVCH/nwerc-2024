@@ -24,7 +24,7 @@ The contest will be held on the campus of the Delft University of Technology. Th
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Problem Slides (pdf)](/main/problem-slides.pdf)
 - [Solution Slides (pdf)](/main/solutions.pdf)
-- [Packaged Problems (.zip, 444MB)](https://chipcie.wisv.ch/archive/2023/nwerc/solutions.zip)
+- [Packaged Problems (.zip, 444MB)](/main/solutions.zip)
 - [Contest Livestream](https://www.youtube.com/watch?v=Ho3z9XpJ5AA)
 - [Award Ceremony Livestream](https://www.youtube.com/watch?v=Z1HO34X9qSA)
 
