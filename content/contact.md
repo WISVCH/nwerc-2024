@@ -12,34 +12,33 @@ Since a couple of years, there is a NWERC Coaches Slack. Coaches are invited to 
 for quick access to the organisation for questions.
 
 # Organisation
-The NWERC 2024 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
+The NWERC 2024 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by the [CHipCie](https://chipcie.wisv.ch/) committee of study association [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
 
 # CHipCie
 The CHipCie takes care of the programming contest within Delft and consists of the following people.
-![CHipCie](/chipcie2023.webp)
+
+![CHipCie](/chipcie2024.webp)
 
 ## Top Row
 From left to right:
-* Yoshi van den Akker, _Commisioner of Streaming_
-* Maarten Sijm, _Commissioner of Jury Affairs_
-* Kasper van Duijne, _Secretary_
-* Robert van Dijk, 
-* Timothy van der Valk, 
-* Thomas Verwoerd, _Commissioner of Coaching Affairs_
-
-## Middle Row:
-From left to right:
-* Joshua Gort, _Qualitate Qua_
-* Elise Deen, _Commissioner of Logistics Affairs_
-* Jan Piotrowski, _Commissioner of System Affairs_
-* Brian Witmer, _Commissioner_
-* Els Brouwer, _Commissioner of Logistics Affairs_
-* Maarten Weyns, _Director of System Affairs_
+* Maarten Sijm, _Jury Affairs_
+* Robert van Dijk, _Knip en Plak Affairs_
+* Atour Mousavi Gourabi, _Treasurer_
+* Luc Jonker, _Systems Affairs_
+* Joshua Gort, _Systems Affairs_
+* Thomas Verwoerd, _Coach Affairs_
 
 ## Bottom Row:
 From left to right:
+* Maarten Weyns, _CHipCie Chair & Head Systems Affairs_
+* Tim Stols, _Qualitate Qua_
+* Brian Witmer, _Secretary_
 * Nadyne Aretz, _Contest Director_
-* Raoul Bruens, _Commissioner of Logistics Affairs_
+* Els Brouwer, _Logistics Affairs_
+* Bink Boëtius, _Qualitate Qua / The Wise Owl_
+* Raoul Bruens, _Activitites Affairs_
+
+<img src=/yoshi.webp alt=Yoshi style="float:right; width:33%" />
 
 ## Not in Picture:
-* Atour Mousavi Gourabi, _Treasurer_
+* Yoshi van den Akker, _Streaming&nbsp;Affairs_
