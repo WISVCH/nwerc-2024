@@ -36,7 +36,7 @@ From left to right:
 * Nadyne Aretz, _Contest Director_
 * Els Brouwer, _Logistics Affairs_
 * Bink Boëtius, _Qualitate Qua / The Wise Owl_
-* Raoul Bruens, _Activitites Affairs_
+* Raoul Bruens, _Activities Affairs_
 
 <img src=/yoshi.webp alt=Yoshi style="float:right; width:33%" />
 
