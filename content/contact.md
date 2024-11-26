@@ -19,7 +19,7 @@ The CHipCie takes care of the programming contest within Delft and consists of t
 
 ![CHipCie](/chipcie2024.webp)
 
-## Top Row
+## Top Row:
 From left to right:
 * Maarten Sijm, _Jury Affairs_
 * Robert van Dijk, _Knip en Plak Affairs_
