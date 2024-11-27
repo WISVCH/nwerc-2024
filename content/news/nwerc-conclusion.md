@@ -27,6 +27,6 @@ Additionally, the following teams have qualified for the [Europe Championship 20
 12. **🥶** (Chalmers University of Technology)
 13. **addicted (òvó)** (Saarland University)
 
-We apologize for mistakenly announcing that Test2 had qualified for the EUC. Due to the rule that only one team per institution can advance, the team addicted (òvó) from Saarland University has qualified instead.
+We apologize for mistakenly announcing during the Award Ceremony that team **Test2** (Oxford) had qualified for the EUC. Due to the rule that only one team per institution can advance, the team **addicted (òvó)** from Saarland University has qualified instead.
 
-In the coming weeks, we will make the photos and home directories available. The photos will be linked on this page, and we will notify all participants via email once they are accessible.
+In the coming weeks, we will make the photos and home directories available. The photos will be linked on our website, and we will notify all participants via email once they are accessible.
