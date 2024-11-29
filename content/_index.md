@@ -17,9 +17,7 @@ The contest was held on the campus of the Delft University of Technology. This y
 
 ## Contest material
 
-<!--
-- [Photos](https://2024.nwerc.eu/photos)
--->
+- [Photos](/photos)
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Problem Slides (pdf)](/main/problem-slides.pdf)
